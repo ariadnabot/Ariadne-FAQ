@@ -1,7 +1,15 @@
 # Ariadna FAQ Repository
 
+
+
 **F**requently **A**sked **Q**uestion for the Ariadna bot.
 
+
+
+
+```js
+--------------------------------------------------------------------------------------------------------------------
+```
 
 ## Slash Commands - Known issues
 ```js
