@@ -8,7 +8,7 @@
 
 
 ```js
---------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 ```
 
 ## Slash Commands - Known issues
@@ -20,7 +20,7 @@ Discord limited the max option number to 25. Since Star Conflict has +25 craftab
 I haven't figured out a way yet on how to do it in a proper and useful way.
 
 ```js
---------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 ```
 
 ## Notification - Known issues
@@ -32,13 +32,5 @@ Portals notification seems to be broken?
 No idea why that broke. Investigating.
 
 ```js
---------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 ```
-
-## Stats Command - Known issues
-
-```js
-Image is not displayed correctly.
-```
-
-No idea why that broke. Investigating.
